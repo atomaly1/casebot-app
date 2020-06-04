@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/relativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        android:minHeight="?attr/actionBarSize"
+        app:title="@string/app_name"
+        app:titleTextColor="@color/colorWhite" />
+
+    <ImageButton
+        android:id="@+id/connectButton"
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:layout_centerInParent="true"
+        android:background="@null"
+        android:contentDescription="@string/contentDescriptionIB"
+        android:hapticFeedbackEnabled="true"
+        app:srcCompat="@drawable/ring_blue" />
+
+    <TextView
+        android:id="@+id/connectTv"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:maxLines="1"
+        app:autoSizeTextType="uniform"
+        app:autoSizeMaxTextSize="40sp"
+        app:autoSizeMinTextSize="12sp"
+        app:autoSizeStepGranularity="2sp"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="@string/connect" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp"
+        android:text="@string/suitcase_ID" />
+
+
+</RelativeLayout>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CaseBot</string>
+    <string name="tab_1">Contrôle</string>
+    <string name="tab_2">Données</string>
+    <string name="connect">Se connecter</string>
+    <string name="connected">Connecté</string>
+    <string name="disconnected">Déconnecté</string>
+    <string name="connection_failed">Connexion perdue</string>
+    <string name="search">Rechercher</string>
+    <string name="instructions">Connectez votre téléphone à votre valise CaseBot:</string>
+    <string name="suitcase_ID">Nom de la valise: HC-05</string>
+    <string name="run">Suivre</string>
+    <string name="stop">Arrêter</string>
+    <string name="sound">Son</string>
+    <string name="language">Langues</string>
+    <string name="units">Unités</string>
+    <string name="informations">Informations</string>
+    <string name="english">Anglais</string>
+    <string name="german">Allemand</string>
+    <string name="french">Français</string>
+    <string name="battery">Batterie</string>
+    <string name="velocity">Vitesse</string>
+    <string name="contentDescriptionIB">Appuyer pour suivre ou s\'arrêter</string>
+</resources>

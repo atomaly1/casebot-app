@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">CaseBot</string>
+
+    <string name="tab_2">Data</string>
+
+    <string name="connect">Connect</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connection_failed">Connection failed</string>
+    <string name="search">Search</string>
+
+    <string name="instructions">Pair your phone to your Suitcase:</string>
+    <string name="suitcase_ID">Suitcase Name: HC-05</string>
+    <string name="run">Start Following</string>
+    <string name="stop">Stop Following</string>
+
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="sound">Sound</string>
+    <string name="language">Language</string>
+    <string name="units">Units</string>
+    <string name="informations">Informations</string>
+    <string name="english">English</string>
+    <string name="german">German</string>
+    <string name="french">French</string>
+    <string name="battery">Battery</string>
+    <string name="velocity">Velocity</string>
+    <string name="contentDescriptionIB">Press to start and stop following</string>
+    <string name="tab_1">Control</string>
+
+
+</resources>
