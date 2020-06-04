@@ -2,7 +2,7 @@
 
 ![](images/casebot_logo.png)
 
-This app was developp for a student project. It is meant to be used with the CaseBot autonomous suitcase.
+This app was developped on AndroidStudio for a student project. It is meant to be used with the CaseBot autonomous suitcase.
 
 ### Overview
 
