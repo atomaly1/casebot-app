@@ -1,6 +1,16 @@
 # CaseBot App
 
+
 This app was developp for a student project. It is meant to be used with the CaseBot autonomous suitcase.
+
+### Overview
+
+![](images/casebot_splashscreen.png)
+![](images/casebot_connect.png)
+![](images/casebot_control.png)
+![](images/casebot_data.png)
+
+
 
 ### Library
 
