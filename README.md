@@ -19,7 +19,7 @@ This app was developp for a student project. It is meant to be used with the Cas
 
 ### License
 
-Copyright 2020 Lucie Wabartha
+Copyright (c) 2020 Lucie Wabartha
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
